@@ -1,3 +1,7 @@
+venv/
+.idea/
+.u2net/
+input_imgs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
