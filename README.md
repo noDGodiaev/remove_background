@@ -1,1 +1,2 @@
-# remove_background
+# Remove background
+using removebg lib
